@@ -1,0 +1,3 @@
+https://github.com/iinc0gnit0/Arduino-Rick-Roll
+https://github.com/iinc0gnit0/cryptz
+https://github.com/iinc0gnit0/RBust
