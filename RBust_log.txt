@@ -1,0 +1,421 @@
+commit 0a39b802188144bb1ba5a25f550f9a91bf4e17ad
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu Jun 4 00:58:36 2020 -0500
+
+    Update install.sh
+
+commit 7fc90af155c309a48d6103935822ca763a4a0e22
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Wed Jun 3 21:59:05 2020 -0500
+
+    Update README.md
+
+commit e55f9d308d9adba8ec6c7e2b3323d593fb678bd4
+Merge: 8bb1f88 f03324f
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Wed Jun 3 13:53:07 2020 -0500
+
+    Merge branch 'master' of https://github.com/iinc0gnit0/RBust
+
+commit 8bb1f88131ba20e5d405ac202815eaf0a4ccd3e2
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Wed Jun 3 13:52:58 2020 -0500
+
+    v2.1
+    - Added word extensions
+
+commit f03324f3c3828b36689a6dc7115185ef77fcd11e
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sat May 30 17:35:39 2020 -0500
+
+    Update README.md
+
+commit 2d87ec20ea8a40be820f8a685f2d92073cf63e1a
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sat May 30 17:34:54 2020 -0500
+
+    Update README.md
+
+commit 13e8044b0a29e680d953d352327776279636d9ec
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sat May 30 17:31:43 2020 -0500
+
+    v2.0
+    - Check for internet
+    - Small adjustments
+
+commit 59d405ee256c1ccf2814c52581f110998e0d614d
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sat May 30 15:12:43 2020 -0500
+
+    v2.0
+    - Check for internet
+    - Small adjustments
+
+commit 0cd476a889bc6d4e7f34046e19d80a64fe870ef0
+Merge: 0c899d4 ec578bf
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Fri May 29 17:51:13 2020 -0500
+
+    Merge branch 'master' of https://github.com/iinc0gnit0/RBust
+
+commit 0c899d4b884b9fc2ea61702a11a9a5ebd7f66eeb
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Fri May 29 17:51:05 2020 -0500
+
+    v1.9
+    - Bug fixes
+
+commit ec578bf7e49ad1ccaba28ec6e972971b4e974664
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Fri May 29 17:36:18 2020 -0500
+
+    Update README.md
+
+commit 8c59d3e70df1dc556f95feeb5aa4deb958b9865c
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Fri May 29 17:21:38 2020 -0500
+
+    v1.9
+    - Bug fixes
+
+commit 38502d64ad5470bb7e9ff9245ba8cbe319f86395
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 28 18:18:36 2020 -0500
+
+    Update README.md
+
+commit ef27944e268ed15ac65a6508b0e64db2de8bf6de
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 28 18:17:59 2020 -0500
+
+    Update README.md
+
+commit 7c2fba30f110831fa5cfb6c28b4f5a8a1cb62282
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 28 18:17:21 2020 -0500
+
+    Update README.md
+
+commit 897b5cec3d9d5ba94b5a32a081feccb239c96049
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 28 18:13:34 2020 -0500
+
+    Update README.md
+
+commit 5da47e950c77580ad538f83fc8c559781d7ff36f
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 28 18:12:48 2020 -0500
+
+    Update README.md
+
+commit d009dc30a50bbf49aff3efe8b7c3f71e4a2e22a3
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 28 18:06:33 2020 -0500
+
+    Update README.md
+
+commit 8a701daf40b062af281bf419fafd07e7b797eca5
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 28 17:53:05 2020 -0500
+
+    v1.8
+    - Added time
+    - New README
+    - Small fixes
+
+commit 834dc9a9a4d8839c7e90ce4bbba471e6b32ca824
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 28 17:49:56 2020 -0500
+
+    v1.8
+    - Added time
+    - New README
+    - Small fixes
+
+commit d28a6fb7c450df7043b083c262cfcf3de6ce8d8a
+Merge: 154e87a c3d69f0
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Tue May 26 15:36:57 2020 -0500
+
+    Merge branch 'master' of https://github.com/iinc0gnit0/RBust
+
+commit 154e87a9dd99752942b96a097d84914f45a0442b
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Tue May 26 15:36:40 2020 -0500
+
+    v1.7
+    - Added user agent
+
+commit c3d69f042c8a912bf88e164f7e25d54c4de0a8ae
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 25 18:21:07 2020 -0500
+
+    Update README.md
+
+commit 7a9d76e54dc944fb8c318af0354dcced8be6d3d9
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 25 18:16:48 2020 -0500
+
+    Update README.md
+
+commit d4e0d2dd146dfb4ccbfdd7a33a98d78cc1264f03
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 25 18:09:31 2020 -0500
+
+    v1.6
+    - Added error handling when making the request
+
+commit 0528194053b9ffed6366e1c7696cab6004f9ba12
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sun May 24 17:10:00 2020 -0500
+
+    v1.5
+    - Added option to set timeouts
+
+commit f02bb88e59fdb58a9aa4c929dedde63559722b3e
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sun May 24 16:51:05 2020 -0500
+
+    v1.5
+    - Added option to set timeouts
+
+commit 84eb9f60f72dc375505242a6a898a071f08428cf
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sat May 23 18:59:38 2020 -0500
+
+    v1.4
+    - Fixed bug where color would stay after exiting program
+
+commit d340b542f74b6348bb005c700e26848b70996892
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sat May 23 18:05:07 2020 -0500
+
+    v1.4
+    - Fixed bug where color would stay after exiting program
+
+commit 760b4287f1c7703b96e415553f667bab4d3685fd
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Tue May 19 17:08:52 2020 -0500
+
+    v1.3
+    - Added verbose option
+    - Fixed install.sh
+
+commit ccbd78c616c2d817dc8e254b3bb6e411ae9710f5
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 18 21:16:50 2020 -0500
+
+    v1.3
+    - Added verbose option
+
+commit 6f2b3dbb8912dd2e391db77d987df7f904b92819
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 18 17:48:38 2020 -0500
+
+    v1.3
+    - Added verbose option
+
+commit fb335eb065e05c9485fe0d3e05c716b5f007068b
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 14 20:24:28 2020 -0500
+
+    Update README.md
+
+commit 449906c4b851e93dc62f76a68ba75b89907fb692
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 14 20:24:03 2020 -0500
+
+    Update README.md
+
+commit 4e5f2296b6f2d8fe57b1ccde2c48ec7ae67434e2
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Thu May 14 20:00:41 2020 -0500
+
+    v1.2
+    - Minor adjustments
+
+commit 9c7e688ad614282ca84199142bbfdbcb64024ec6
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Wed May 13 20:44:13 2020 -0500
+
+    v1.1 - Added command line arguments for more flexibility
+
+commit 1c5cbd2ded46c4754e512032a84976c33dd0e296
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Wed May 13 20:43:51 2020 -0500
+
+    Update README.md
+
+commit 407c4b9627dd20ed5cfd7c29384b0d305460e681
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Wed May 13 20:34:08 2020 -0500
+
+    1.1
+    - Added command line arguments for more flexibility
+
+commit af5e81e01f93626df764344121b498c96d9356f4
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Tue May 12 17:37:39 2020 -0500
+
+    Update README.md
+
+commit aedc88434d4432fe3070c6146360711b7b11cd88
+Merge: 3852c48 28bfb02
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Tue May 12 17:29:47 2020 -0500
+
+    1.0 - First release
+
+commit 3852c4899d339dfc192e03d27acaed219703686f
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Tue May 12 17:28:12 2020 -0500
+
+    1.0
+    - First release
+
+commit 47003e5f2a95f7c4e68a7eabc8495ba27ac10b8f
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Tue May 12 17:27:02 2020 -0500
+
+    1.0 - First release
+
+commit 28bfb0279c080788f725c6e256e04a232959252b
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Tue May 12 17:24:05 2020 -0500
+
+    1.0 - First release
+
+commit c9dedd03192e4ddac95e9ae645a8d4c87cf02bdc
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 11 21:00:47 2020 -0500
+
+    1.0 - First release
+
+commit 80352eaa9fe7beaf4d911cd664124b8e53ecc0d9
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 11 21:00:13 2020 -0500
+
+    1.0 - First release
+
+commit 0d4f5706febbcaf9ad9faa3b86948c65361a1883
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 11 20:58:41 2020 -0500
+
+    Update README.md
+
+commit 41d046555177822a307ad74b9627e07eb6756b30
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 11 20:57:45 2020 -0500
+
+    1.0 - First release
+
+commit bde2145bd97702f97cefed627e2c3e10a3ef4c8b
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Mon May 11 20:52:36 2020 -0500
+
+    1.0
+    - First release
+
+commit 1f8cfbce9d08814ac16af9602524861205b1a595
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sun May 10 21:12:56 2020 -0500
+
+    v0.0.9
+    - Finish everything
+
+commit 41f48c9e2cb818d326a6d236f432f46ebcb53024
+Author: iinc0gnit0 <iinc0gnit0@pm.me>
+Date:   Fri May 8 19:35:25 2020 -0500
+
+    v0.0.8
+    - Added install.sh
+    - Working on multi threading
+
+commit c4a8329b033dfd5f26b954373eaaf63b806be7eb
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Wed May 6 17:57:43 2020 -0500
+
+    Update README.md
+
+commit a3912b55258db1ee6f031c6455b93f93f49d4a2b
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Wed May 6 17:51:22 2020 -0500
+
+    v0.0.7
+    - Read from file
+    - Interpret request
+
+commit e7fa97783310782738d434fa15bca143f7a02cbe
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Wed May 6 15:02:20 2020 -0500
+
+    Update README.md
+
+commit 0372dd5b30c04c1f87429bfe2097a2b409a589ba
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Wed May 6 14:46:02 2020 -0500
+
+    v0.0.6
+    - Working on reading from file
+
+commit 4c3747b64181a27f3e545ada504c37db0feb1f7c
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Mon May 4 21:25:30 2020 -0500
+
+    v0.5
+    - Made the request
+
+commit 92b1626323204d24d6f3a4cef9b1c34c828bdd8b
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Sat May 2 22:24:58 2020 -0500
+
+    v0.4
+    - Working on handling the request
+
+commit 7e8e7af04856b6d34ddd5d98f67be223a4fd390c
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Wed Apr 29 21:05:09 2020 -0500
+
+    v0.3
+    - Added command line args
+
+commit 44a6be09b92b9be15317239bac204cc2744fe14f
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Tue Apr 28 21:47:32 2020 -0500
+
+    v0.2
+
+commit 92bdda48a8ae1b048d7e03c34028445f23173396
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Tue Apr 28 18:51:23 2020 -0500
+
+    vv0.2
+    - Added reqwest
+
+commit 0ab4a2b89ac2b968341391c837d40de3e8b74a8e
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Mon Apr 27 17:43:18 2020 -0500
+
+    v0.2
+    - Added reqwest
+
+commit dee9f9f836ce1377a2787ffaff066bbf8c585b73
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Mon Apr 27 16:48:06 2020 -0500
+
+    0.2
+    - Added reqwest
+
+commit d6828fc6064b4cf869b91d51e0af7f74d7ad020c
+Author: iinc0gnit0 <iinc0gni0t@pm.me>
+Date:   Sun Apr 26 21:26:55 2020 -0500
+
+    v0.1
+    - Initial Start
+
+commit d8ac0a8ec288d2a51fb0d6088cbe02337024e395
+Author: inc0gnit0 <iinc0gnit0@pm.me>
+Date:   Sun Apr 26 21:23:37 2020 -0500
+
+    Initial commit
