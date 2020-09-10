@@ -13,5 +13,26 @@ do
 	cd $appPath
 	git log > ../${arr[3]}_log.txt
 	rm -rf $appPath
+	cd $path
+
+while read line; do
+	if [[ $line = 'Author: '* ]]; then
+		if [[ $(grep "$line" "developersMails.txt") ]]; then
+			echo already exists
+		else
+			echo $line >> developersMails.txt
+		fi
+	fi
+done < ${arr[3]}_log.txt
+
 done < links.txt
 echo --------------------Khelaw ends------------------------
+
+
+
+
+
+
+
+
+
